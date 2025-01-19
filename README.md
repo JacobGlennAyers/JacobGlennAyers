@@ -2,9 +2,11 @@ Education -
 
 Associate's Degree of Science from Santa Barbara City College (2019)
 
-Bachelor's Degree in Electrical Engineering with an emphasis in Machine Learning and Digital Signal Processing (2022)
+Bachelor's Degree from UC San Diego in Electrical Engineering with an emphasis in Machine Learning and Digital Signal Processing (2022)
 
-Master's Degree in Machine Learning and Data Science (exp. 2024)
+Master's Degree from UC San Diego in Machine Learning and Data Science from the Electrical and Computer Engineering Department (2024)
+
+Ph.D in the D-ITET Department of ETH Zurich at the Institute of Neuroinformatics (exp. 2028)
 
 Languages - 
 
